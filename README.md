@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hi there, I'm [杨惠坚]
 
-<!--
-**y1733133864/y1733133864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Turning coffee into code | 🌱 Building the future, one commit at a time
 
-Here are some ideas to get you started:
+---
+✨ I breathe life into pixels using **React, Vue, and a sprinkle of Three.js**  
+🎨 Turning designs into butter-smooth interactions  
+🧩 Currently obsessed with **WebAssembly** and **Astro**  
+🎯 2026 Goal: Contribute to a major CSS framework  
+🐛 Fun fact: I debug with `console.log` like a true professional
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JSP](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
