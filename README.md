@@ -12,8 +12,8 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue3](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JSP](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://github.com/y1733133864/KuGou_Crawler.git)
+![opencv](https://github.com/y1733133864/opencv_logo_split_join.git)
+![Vue3](https://github.com/y1733133864/uniapp_wallpaper.git)
+![JSP](https://github.com/Clireo12/property-management-system.git)
+![HTML](https://github.com/Clireo12/property-management-system.git)
